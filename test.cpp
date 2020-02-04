@@ -14,5 +14,7 @@ int main()
 {
 	std::cout<<"hello world"<<std::endl;
 	display();
+	//call cleanup
+	cleanup();
 	return 1;
 }

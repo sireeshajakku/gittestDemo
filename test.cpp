@@ -10,8 +10,14 @@ void cleanup()
 	std::cout<<"in cleanu"<<std::endl;
 }
 
-class testt
+
+class test
 {
+	test()
+	{
+		std::cout<<"test class"<<std::endl;
+	}
+	
 };
 
 int main()

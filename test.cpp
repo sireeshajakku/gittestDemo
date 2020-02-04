@@ -10,6 +10,10 @@ void cleanup()
 	std::cout<<"in cleanu"<<std::endl;
 }
 
+class testt
+{
+};
+
 int main()
 {
 	std::cout<<"hello world"<<std::endl;
